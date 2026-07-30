@@ -1,14 +1,14 @@
 {
   "ok": true,
   "checks": {
-    "passed": 17,
-    "total": 17
+    "passed": 19,
+    "total": 19
   },
   "groups": [
     {
       "name": "links",
-      "passed": 10,
-      "total": 10
+      "passed": 12,
+      "total": 12
     },
     {
       "name": "demos",
@@ -22,7 +22,7 @@
     }
   ],
   "failures": [],
-  "generated": "30 Jul 2026 11:05 UTC",
+  "generated": "30 Jul 2026 11:16 UTC",
   "languages": [
     {
       "name": "Python",
