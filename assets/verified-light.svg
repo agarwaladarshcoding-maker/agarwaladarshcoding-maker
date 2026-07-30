@@ -5,6 +5,11 @@
 <circle cx="34" cy="33" r="5.5" fill="#cf222e" opacity="0.6"><animate attributeName="r" values="5.5;14" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
 <text x="56" y="29" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="2.2" fill="#cf222e">SELF-VERIFIED</text>
 <text x="56" y="47" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e">this README re-checks its own claims daily in CI</text>
+<<<<<<< Updated upstream
 <text x="1168" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="15" fill="#1f2328">16/17 <tspan font-size="12" fill="#cf222e">CHECKS FAILING</tspan></text>
 <text x="1168" y="47" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e">links 9/10 · demos 1/1 · repos 6/6<tspan fill="#59636e">  ·  </tspan>30 Jul 2026 11:02 UTC</text>
+=======
+<text x="1168" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="15" fill="#1f2328">17/17 <tspan font-size="12" fill="#0f7d59">ALL CHECKS PASSING</tspan></text>
+<text x="1168" y="47" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#8b949e">links 10/10 · demos 1/1 · repos 6/6<tspan fill="#59636e">  ·  </tspan>30 Jul 2026 11:03 UTC</text>
+>>>>>>> Stashed changes
 </svg>

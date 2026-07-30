@@ -49,10 +49,14 @@ PINNED = [
     "Monte-Carlo-Project-Simulator",
 ]
 
-# Hosts that answer automated requests with 403/999 as bot defence. Reaching
-# them at all proves the host resolves; the status code carries no signal.
+# Hosts that answer automated requests with a refusal rather than the page, as
+# bot defence. Reaching them at all proves the host resolves and the path is
+# shaped right; the status code carries no signal about the link being good.
+# 429 shows up specifically from CI: GitHub's runner IPs are shared and already
+# rate-limited by LinkedIn before this workflow ever gets there.
 BOT_WALLED = ("codeforces.com", "linkedin.com", "x.com", "twitter.com",
               "medium.com")
+WALL_CODES = (401, 403, 405, 429, 999)
 
 # Notebooks are ~95% JSON scaffolding around Python. Counting them as their
 # own language wildly overstates them, so fold them in.
@@ -79,8 +83,10 @@ def check_url(url):
             r = fetch(url, method=method)
             return True, str(r.status)
         except urllib.error.HTTPError as e:
-            if e.code in (403, 405, 999) and walled:
+            if walled and e.code in WALL_CODES:
                 return True, f"{e.code} (bot-walled, host reachable)"
+            if e.code == 405 and method == "HEAD":
+                continue                     # server rejects HEAD, try GET
             if method == "GET":
                 return False, f"HTTP {e.code}"
         except Exception as e:                       # DNS, TLS, timeout
