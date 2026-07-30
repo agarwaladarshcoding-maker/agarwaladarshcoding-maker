@@ -1,15 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="66" viewBox="0 0 1200 66" fill="none" role="img" aria-label="Self-verification: 16 of 17 checks passing">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="66" viewBox="0 0 1200 66" fill="none" role="img" aria-label="Self-verification: 17 of 17 checks passing">
 <rect width="1200" height="66" rx="12" fill="#111a26"/>
-<rect x="0.5" y="0.5" width="1199" height="65" rx="12" stroke="#f85149" opacity="0.45"/>
-<circle cx="34" cy="33" r="5.5" fill="#f85149"/>
-<circle cx="34" cy="33" r="5.5" fill="#f85149" opacity="0.6"><animate attributeName="r" values="5.5;14" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
-<text x="56" y="29" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="2.2" fill="#f85149">SELF-VERIFIED</text>
+<rect x="0.5" y="0.5" width="1199" height="65" rx="12" stroke="#3ddc97" opacity="0.45"/>
+<circle cx="34" cy="33" r="5.5" fill="#3ddc97"/>
+<circle cx="34" cy="33" r="5.5" fill="#3ddc97" opacity="0.6"><animate attributeName="r" values="5.5;14" dur="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.6;0" dur="2.4s" repeatCount="indefinite"/></circle>
+<text x="56" y="29" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="2.2" fill="#3ddc97">SELF-VERIFIED</text>
 <text x="56" y="47" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#5a6874">this README re-checks its own claims daily in CI</text>
-<<<<<<< Updated upstream
-<text x="1168" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="15" fill="#e6edf3">16/17 <tspan font-size="12" fill="#f85149">CHECKS FAILING</tspan></text>
-<text x="1168" y="47" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#5a6874">links 9/10 · demos 1/1 · repos 6/6<tspan fill="#8b98a5">  ·  </tspan>30 Jul 2026 11:02 UTC</text>
-=======
 <text x="1168" y="29" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="15" fill="#e6edf3">17/17 <tspan font-size="12" fill="#3ddc97">ALL CHECKS PASSING</tspan></text>
 <text x="1168" y="47" text-anchor="end" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11.5" fill="#5a6874">links 10/10 · demos 1/1 · repos 6/6<tspan fill="#8b98a5">  ·  </tspan>30 Jul 2026 11:03 UTC</text>
->>>>>>> Stashed changes
 </svg>

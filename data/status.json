@@ -1,13 +1,13 @@
 {
-  "ok": false,
+  "ok": true,
   "checks": {
-    "passed": 16,
+    "passed": 17,
     "total": 17
   },
   "groups": [
     {
       "name": "links",
-      "passed": 9,
+      "passed": 10,
       "total": 10
     },
     {
@@ -21,15 +21,8 @@
       "total": 6
     }
   ],
-<<<<<<< Updated upstream
-  "failures": [
-    "links: https://www.linkedin.com/in/adarsh-agarwala \u2014 HTTP 429"
-  ],
-  "generated": "30 Jul 2026 11:02 UTC",
-=======
   "failures": [],
   "generated": "30 Jul 2026 11:03 UTC",
->>>>>>> Stashed changes
   "languages": [
     {
       "name": "Python",
