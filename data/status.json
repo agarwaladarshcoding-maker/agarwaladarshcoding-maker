@@ -1,0 +1,52 @@
+{
+  "ok": true,
+  "checks": {
+    "passed": 17,
+    "total": 17
+  },
+  "groups": [
+    {
+      "name": "links",
+      "passed": 10,
+      "total": 10
+    },
+    {
+      "name": "demos",
+      "passed": 1,
+      "total": 1
+    },
+    {
+      "name": "repos",
+      "passed": 6,
+      "total": 6
+    }
+  ],
+  "failures": [],
+  "generated": "30 Jul 2026 10:48 UTC",
+  "languages": [
+    {
+      "name": "Python",
+      "pct": 49.2
+    },
+    {
+      "name": "TypeScript",
+      "pct": 29.8
+    },
+    {
+      "name": "JavaScript",
+      "pct": 17.9
+    },
+    {
+      "name": "C++",
+      "pct": 2.2
+    },
+    {
+      "name": "C",
+      "pct": 0.5
+    },
+    {
+      "name": "Rust",
+      "pct": 0.4
+    }
+  ]
+}

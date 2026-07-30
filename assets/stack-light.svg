@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" fill="none" role="img" aria-label="Tech stack">
+<defs>
+<linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f5f8fa"/></linearGradient>
+</defs>
+<rect width="1200" height="356" rx="14" fill="url(#sbg)"/>
+<rect x="0.5" y="0.5" width="1199" height="355" rx="14" stroke="#d4dbe2"/>
+<text x="44" y="46" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12.5" letter-spacing="3.4" fill="#0f7d59">STACK</text>
+<text x="44" y="86" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.6" fill="#1f2328">AI / ML</text>
+<rect x="44" y="96" width="30" height="2" rx="1" fill="#0969da"/>
+<circle cx="48" cy="120" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">PyTorch</text>
+<circle cx="48" cy="144" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Transformers / HF</text>
+<circle cx="48" cy="168" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">RAG &amp; retrieval</text>
+<circle cx="48" cy="192" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">LoRA fine-tuning</text>
+<circle cx="48" cy="216" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">scikit-learn</text>
+<circle cx="48" cy="240" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="62" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">OpenCV</text>
+<text x="448" y="86" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.6" fill="#1f2328">QUANT / SYSTEMS</text>
+<rect x="448" y="96" width="30" height="2" rx="1" fill="#0969da"/>
+<circle cx="452" cy="120" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">C++17 / 20</text>
+<circle cx="452" cy="144" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">NumPy / Pandas</text>
+<circle cx="452" cy="168" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Monte Carlo</text>
+<circle cx="452" cy="192" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Limit order books</text>
+<circle cx="452" cy="216" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Statistical arbitrage</text>
+<circle cx="452" cy="240" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="466" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">PCA factor models</text>
+<text x="836" y="86" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="12" letter-spacing="1.6" fill="#1f2328">WEB / INFRA</text>
+<rect x="836" y="96" width="30" height="2" rx="1" fill="#0969da"/>
+<circle cx="840" cy="120" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="124" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">TypeScript</text>
+<circle cx="840" cy="144" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="148" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">React / Next.js</text>
+<circle cx="840" cy="168" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="172" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Node / Express</text>
+<circle cx="840" cy="192" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="196" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">MongoDB</text>
+<circle cx="840" cy="216" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="220" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">Tailwind CSS</text>
+<circle cx="840" cy="240" r="2.5" fill="#0f7d59" opacity="0.75"/>
+<text x="854" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">GitHub Actions</text>
+<text x="44" y="286" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#8b949e">LANGUAGE DISTRIBUTION — MEASURED FROM PUBLIC REPOS</text>
+<rect x="44.0" y="298" width="547.1" height="12" fill="#0f7d59" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.00s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.00s" fill="freeze"/></rect>
+<rect x="591.1" y="298" width="331.4" height="12" fill="#0969da" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.08s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.08s" fill="freeze"/></rect>
+<rect x="922.5" y="298" width="199.0" height="12" fill="#a371f7" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.16s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.16s" fill="freeze"/></rect>
+<rect x="1121.5" y="298" width="24.5" height="12" fill="#f0883e" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.24s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.24s" fill="freeze"/></rect>
+<rect x="44" y="324" width="9" height="9" rx="2" fill="#0f7d59"/>
+<text x="59" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">Python <tspan fill="#8b949e">49%</tspan></text>
+<rect x="144.0" y="324" width="9" height="9" rx="2" fill="#0969da"/>
+<text x="159.0" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">TypeScript <tspan fill="#8b949e">30%</tspan></text>
+<rect x="270.4" y="324" width="9" height="9" rx="2" fill="#a371f7"/>
+<text x="285.4" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">JavaScript <tspan fill="#8b949e">18%</tspan></text>
+<rect x="396.79999999999995" y="324" width="9" height="9" rx="2" fill="#f0883e"/>
+<text x="411.79999999999995" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">C++ <tspan fill="#8b949e">2%</tspan></text>
+</svg>
