@@ -1,13 +1,13 @@
 {
-  "ok": true,
+  "ok": false,
   "checks": {
-    "passed": 17,
+    "passed": 16,
     "total": 17
   },
   "groups": [
     {
       "name": "links",
-      "passed": 10,
+      "passed": 9,
       "total": 10
     },
     {
@@ -21,32 +21,30 @@
       "total": 6
     }
   ],
-  "failures": [],
-  "generated": "30 Jul 2026 10:58 UTC",
+  "failures": [
+    "links: https://www.linkedin.com/in/adarsh-agarwala \u2014 HTTP 429"
+  ],
+  "generated": "30 Jul 2026 11:02 UTC",
   "languages": [
     {
       "name": "Python",
-      "pct": 49.2
+      "pct": 58.7
     },
     {
       "name": "TypeScript",
-      "pct": 29.8
+      "pct": 32.6
     },
     {
       "name": "JavaScript",
-      "pct": 17.9
+      "pct": 4.7
     },
     {
       "name": "C++",
-      "pct": 2.2
+      "pct": 3.0
     },
     {
       "name": "C",
-      "pct": 0.5
-    },
-    {
-      "name": "Rust",
-      "pct": 0.4
+      "pct": 0.9
     }
   ]
 }
