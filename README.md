@@ -10,6 +10,8 @@
   <img alt="Self-verification status for this README" src="./assets/verified-dark.svg">
 </picture>
 
+[![verify README](https://github.com/agarwaladarshcoding-maker/agarwaladarshcoding-maker/actions/workflows/verify.yml/badge.svg)](https://github.com/agarwaladarshcoding-maker/agarwaladarshcoding-maker/actions/workflows/verify.yml)
+
 I build **retrieval and agent systems that check their own output** — the part most
 RAG pipelines skip. A model that answers confidently and a model that answers
 correctly look identical until something measures the gap, so I spend my time on
