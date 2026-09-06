@@ -22,27 +22,27 @@
     }
   ],
   "failures": [],
-  "generated": "05 Sep 2026 10:37 UTC",
+  "generated": "06 Sep 2026 10:59 UTC",
   "languages": [
     {
       "name": "Python",
-      "pct": 53.3
+      "pct": 55.9
     },
     {
       "name": "TypeScript",
-      "pct": 37.9
+      "pct": 35.8
     },
     {
       "name": "C++",
-      "pct": 4.5
+      "pct": 4.3
     },
     {
       "name": "JavaScript",
-      "pct": 2.9
+      "pct": 2.7
     },
     {
       "name": "PLpgSQL",
-      "pct": 1.0
+      "pct": 0.9
     },
     {
       "name": "C",
