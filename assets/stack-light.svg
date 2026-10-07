@@ -48,12 +48,12 @@
 <circle cx="840" cy="240" r="2.5" fill="#0f7d59" opacity="0.75"/>
 <text x="854" y="244" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="14.5" fill="#59636e">GitHub Actions</text>
 <text x="44" y="286" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="10.5" letter-spacing="1.5" fill="#8b949e">LANGUAGE DISTRIBUTION — MEASURED FROM PUBLIC REPOS</text>
-<rect x="44.0" y="298" width="834.0" height="12" fill="#0f7d59" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.00s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.00s" fill="freeze"/></rect>
-<rect x="878.0" y="298" width="224.6" height="12" fill="#0969da" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.08s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.08s" fill="freeze"/></rect>
-<rect x="1102.6" y="298" width="26.7" height="12" fill="#a371f7" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.16s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.16s" fill="freeze"/></rect>
-<rect x="1129.3" y="298" width="17.8" height="12" fill="#f0883e" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.24s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.24s" fill="freeze"/></rect>
+<rect x="44.0" y="298" width="841.8" height="12" fill="#0f7d59" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.00s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.00s" fill="freeze"/></rect>
+<rect x="885.8" y="298" width="220.2" height="12" fill="#0969da" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.08s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.08s" fill="freeze"/></rect>
+<rect x="1106.0" y="298" width="25.6" height="12" fill="#a371f7" opacity="0.9" rx="0"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.16s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.16s" fill="freeze"/></rect>
+<rect x="1131.5" y="298" width="17.8" height="12" fill="#f0883e" opacity="0.9" rx="6"><animate attributeName="height" values="0;12" dur="0.7s" begin="0.24s" fill="freeze"/><animate attributeName="y" values="310;298" dur="0.7s" begin="0.24s" fill="freeze"/></rect>
 <rect x="44" y="324" width="9" height="9" rx="2" fill="#0f7d59"/>
-<text x="59" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">Python <tspan fill="#8b949e">75%</tspan></text>
+<text x="59" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">Python <tspan fill="#8b949e">76%</tspan></text>
 <rect x="144.0" y="324" width="9" height="9" rx="2" fill="#0969da"/>
 <text x="159.0" y="332.5" font-family="ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,monospace" font-size="11" fill="#59636e">TypeScript <tspan fill="#8b949e">20%</tspan></text>
 <rect x="270.4" y="324" width="9" height="9" rx="2" fill="#a371f7"/>
