@@ -1,13 +1,13 @@
 {
-  "ok": false,
+  "ok": true,
   "checks": {
-    "passed": 18,
+    "passed": 19,
     "total": 19
   },
   "groups": [
     {
       "name": "links",
-      "passed": 11,
+      "passed": 12,
       "total": 12
     },
     {
@@ -21,10 +21,8 @@
       "total": 6
     }
   ],
-  "failures": [
-    "links: https://github.com/agarwaladarshcoding-maker/High-Frequency-Order-Book \u2014 HTTP 504"
-  ],
-  "generated": "17 Nov 2026 16:02 UTC",
+  "failures": [],
+  "generated": "18 Nov 2026 15:41 UTC",
   "languages": [
     {
       "name": "Python",
